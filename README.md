@@ -1,26 +1,24 @@
 # platzi-exchange
 
-## Project setup
-```
-npm install
-```
+This project was developed for educational purposes, in order to largely implement the functionality of Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Consists of a SPA (single page application)
+that gives us in real time the 20 best cryptocurrencies in the market. You can select in detail each of them with details, including graphs and best sites according to their price to buy.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Deployment performed in [Netlify](https://www.netlify.com/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+see the result in the following link -> [Platzi Exchange](https://platzi-exchange-luismgil.netlify.app)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Platzi-exchange-vue
-# Platzi-exchange-vue
+
+## Technologies used for this project
+
+I created this project with `vue create <project-name>`.
+
+in its development, I used:
+- [JavaScript](https://www.javascript.com/)
+- [Vue CLI](https://cli.vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
+- [tailwindcss](https://tailwindcss.com/)
+- [Numeral.js](http://numeraljs.com/)
+- [Vue Spinners](https://vue-spinners.saeris.io/)
+- [Vue Chartkick](https://github.com/ankane/vue-chartkick)
